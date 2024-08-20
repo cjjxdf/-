@@ -39,3 +39,10 @@
 
 6. **历史记录**：在每个收短信里查看所有使用的号码记录。
 
+### 部分软件截图:
+
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/dnd.JPG)
+
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/wyb.JPG)
+
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/sjb.JPG)
