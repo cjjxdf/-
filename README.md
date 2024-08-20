@@ -17,3 +17,5 @@
 7. 平台有提供第三次API技术对接文档,对接简单快速效率。
 
 官网：[访问光速码官网](http://www.gsjiema.com)
+
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/0240820155719.png)
