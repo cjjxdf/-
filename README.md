@@ -41,8 +41,8 @@
 
 ### 部分软件截图:
 
-![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/dnd.JPG)
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/dnd.png)
 
-![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/wyd.JPG)
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/wyd.png)
 
-![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/sjd.JPG)
+![image](https://github.com/cjjxdf/-/blob/cjjxdf-patch-1/sjd.png)
